@@ -1,4 +1,5 @@
 📁 İçerik
+
 Depo içerisinde aşağıdaki ana başlıklar altında notlar ve kodlamalar bulunmaktadır:
 
 Veri Analizi ve Manipülasyon: Pandas, NumPy ve Matplotlib/Seaborn kütüphaneleri ile veri görselleştirme.
@@ -10,6 +11,7 @@ Veri Ön İşleme (Data Preprocessing): Eksik verilerin tamamlanması, aykırı 
 Makine Öğrenmesi: Regresyon, Sınıflandırma ve Kümeleme algoritmaları.
 
 🛠️ Kullanılan Teknolojiler
+
 Dil: Python
 
 Kütüphaneler: Pandas, NumPy, Scikit-learn, SciPy, Seaborn, Matplotlib

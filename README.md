@@ -1,5 +1,5 @@
-<<<<<<< HEAD
 📁 İçerik
+
 Depo içerisinde aşağıdaki ana başlıklar altında notlar ve kodlamalar bulunmaktadır:
 
 Veri Analizi ve Manipülasyon: Pandas, NumPy ve Matplotlib/Seaborn kütüphaneleri ile veri görselleştirme.
@@ -11,6 +11,7 @@ Veri Ön İşleme (Data Preprocessing): Eksik verilerin tamamlanması, aykırı 
 Makine Öğrenmesi: Regresyon, Sınıflandırma ve Kümeleme algoritmaları.
 
 🛠️ Kullanılan Teknolojiler
+
 Dil: Python
 
 Kütüphaneler: Pandas, NumPy, Scikit-learn, SciPy, Seaborn, Matplotlib
@@ -23,7 +24,3 @@ Bu notlar, Udemy üzerindeki veri bilimi kursları sırasında tutulmuş olup; t
 LinkedIn
 
 https://www.linkedin.com/in/emirdmg/
-=======
-# Data-Science-Learning-Notebook
-Data Science notes and projects covering Statistics, Python for Data Science, and Machine Learning from Udemy courses.
->>>>>>> 41b3790fda67abb6eb1cf2f23430c30f64084835
